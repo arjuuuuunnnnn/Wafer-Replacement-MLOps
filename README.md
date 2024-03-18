@@ -1,5 +1,6 @@
 Wafer-Replacement-MLOps
 ==============================
+An ongoing machine learning project
 
 To predict whether to replace a wafer or not
 
